@@ -1,0 +1,28 @@
+.main-div{
+    background-image: linear-gradient(to top, #78a7ee, #57c4ec, #7ad8d9, #b3e7cb, #e8f2d0);
+    width: 99.9%;
+    height: 625px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+.main-mdl{
+    width: 50%;
+    height: auto;
+    background-color: white;
+    border-radius: 5px;
+}
+.main-mdl-1{
+    width: 100%;
+    
+}
+.main-mdl-2{
+    width: 92%;
+    /* border: 1px solid red; */
+    margin: 0% 5% 0% 5%;
+    display: flex;
+    flex-direction: row;
+}
+.main-mdl-2-bar{
+    width: 90%;
+}
